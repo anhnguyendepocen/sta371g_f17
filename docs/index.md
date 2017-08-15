@@ -2,15 +2,10 @@
 layout: default
 ---
 
-- 
-{:toc}
-
 Jump to:
 
-- [Basic course information](#basic)
-- [Lecture notes and materials](#lecture)
-- [Homework assignments and solutions](#homework)
-- [Additional materials](#additional)
+* TOC
+{:toc}
 
 # Basic course information
 
@@ -185,8 +180,8 @@ Type 'demo()' for some demos, 'help()' for on-line help, or
 Type 'q()' to quit R.
 
 
-# [](#lecture)Lecture notes and materials
+# Lecture notes and materials
 
-# [](#homework)Homework assignments and solutions
+# Homework assignments and solutions
 
-# [](#additional)Additional materials
+# Additional materials
