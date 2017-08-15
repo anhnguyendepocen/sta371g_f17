@@ -2,6 +2,9 @@
 layout: default
 ---
 
+- 
+{:toc}
+
 Jump to:
 
 - [Basic course information](#basic)
@@ -9,7 +12,7 @@ Jump to:
 - [Homework assignments and solutions](#homework)
 - [Additional materials](#additional)
 
-# [basic](#basic)Basic course information
+# Basic course information
 
 R version 3.3.2 (2016-10-31) -- "Sincere Pumpkin Patch"
 Copyright (C) 2016 The R Foundation for Statistical Computing
