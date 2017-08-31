@@ -29,7 +29,12 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 
 # Lecture notes and related materials
 
+- [Section 1.1: Introduction and Probability concepts](slides/Section01.1.pdf) ([R code](slides/Section01.1.R))
+
 # Homework assignments and solutions
+
+1. Homework 1 (nothing to turn in!): Complete the first three tutorials listed below under "R/RStudio resources". By "complete" I mean follow along with the reading, and make sure you can run all the R commands from within RStudio. It is most helpful if you actually type the commands in yourself, rather than copy and pasting the code. It's tedious at first but helpful for learning. Once you've worked through the tutorials, run the R code accompanying the Section 1.1 lecture notes. Try changing things and see what happens!
+
 
 # R/RStudio resources
 
