@@ -23,7 +23,7 @@ Rohit Arora, IROM PhD Student
 
 - *Email:* arorarohit@utexas.edu
 - *Office:* CBA 3.332L
-- *Office Hours:* Wednesday 4:00 - 5:00PM  and Friday TBD
+- *Office Hours:* Wednesday 4:00 - 5:00PM  and Friday 4:30 - 5:30
 
 Please see the [syllabus](files/syllabus.pdf) for more information.
 
