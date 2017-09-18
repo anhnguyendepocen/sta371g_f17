@@ -31,6 +31,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 
 - [Section 1.1: Introduction and Probability concepts](slides/Section01.1.pdf) ([R code](slides/Section01.1.R))
 - [Section 1.2: Probability and Decisions](slides/Section01.2.pdf) ([Freemark Case Questions](files/freemark.pdf))
+- [Section 1.3: More Probability and Decisions](slides/Section01.3.pdf) ([R code](slides/Section01.3.R))
 
 # Homework assignments and solutions
 
