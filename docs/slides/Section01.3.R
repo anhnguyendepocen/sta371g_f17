@@ -1,5 +1,5 @@
 
-# pnorm(q, mean, sd) gives Pr(X<q) when X ~ N(mean, sd^2) (here N(6, 225))
+# pnorm(q, mean, sd) gives Pr(X<q) when X ~ N(mean, sd^2) (here N(6, 225)) 15^2=225 is the variance
 pnorm(0, mean=6, sd=15)
 
 
@@ -13,6 +13,7 @@ for(year in 2:20) {
   val = val*(1 + rnorm(1, 6, 15)/100)
 }
 print(val)
+
 set.seed(1)
 library(mosaic)
 # Simulate and plot four other possible "futures", using some shortcuts. Unlike
@@ -25,7 +26,7 @@ cols=c('black', 'darkgreen', 'darkorange', 'purple')
 plot(0:20, futures[1,], col=cols[1], type='l',
      ylim=c(min(futures)-0.1, max(futures)+0.1), lwd=2, ylab = 'Value of $1', xlab="year")
 for(i in 2:nrow(futures)) lines(0:20, futures[i,], col=cols[i], lwd=2)
-library(mosaic)
+
 num.sim = 10000
 num.years = 20
 values = do(num.sim) * {
