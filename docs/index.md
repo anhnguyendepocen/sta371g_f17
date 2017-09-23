@@ -38,6 +38,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 1. Homework 0 (nothing to turn in!): Complete the first three tutorials listed below under "R/RStudio resources". By "complete" I mean follow along with the reading, and make sure you can run all the R commands from within RStudio. It is most helpful if you actually type the commands in yourself, rather than copy and pasting the code. It's tedious at first but helpful for learning. Once you've worked through the tutorials, run the R code accompanying the Section 1.1 lecture notes. Try changing things and see what happens!
 2. [Homework 1](homework/HW1.pdf): Follow the instructions in the PDF carefully. Associated R code is [here](homework/HW1.R). Solutions: On Canvas, attached to the assignment.
 3. [Homework 2](homework/HW2.pdf): Follow the instructions in the PDF carefully and note there is one problem in addition to the Freemark case (problem 4).
+3. [Homework 3](homework/HW3.pdf): Follow the instructions in the PDF carefully and note there is one problem in addition to the Freemark case (problem 4).
 
 
 # R/RStudio resources
