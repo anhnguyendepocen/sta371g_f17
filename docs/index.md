@@ -33,6 +33,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 - [Section 1.2: Probability and Decisions](slides/Section01.2.pdf) ([Freemark Case Questions](files/freemark.pdf))
 - [Section 1.3: More Probability and Decisions](slides/Section01.3.pdf) ([R code](slides/Section01.3.R))
 - [Section 1.4: Learning from Data](slides/Section01.4.pdf) ([R code](slides/Section01.4.R))
+- [Section 2.1: Intro to Simple Linear Regression and Least Squares ](slides/Section02.1.pdf) ([R code](slides/Section02.1.R))
 
 
 # Homework assignments and solutions
