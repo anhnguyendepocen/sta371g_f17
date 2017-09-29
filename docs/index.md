@@ -42,7 +42,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 2. [Homework 1](homework/HW1.pdf): Follow the instructions in the PDF carefully. Associated R code is [here](homework/HW1.R). Solutions: On Canvas, attached to the assignment.
 3. [Homework 2](homework/HW2.pdf): Follow the instructions in the PDF carefully and note there is one problem in addition to the Freemark case (problem 4).
 3. [Homework 3](homework/HW3.pdf): Follow the instructions in the PDF and the guidelines on Canvas carefully.
-3. [Homework 3](homework/hw4.pdf): Follow the instructions in the PDF and the guidelines on Canvas carefully.
+3. [Homework 4](homework/hw4.pdf): Follow the instructions in the PDF and the guidelines on Canvas carefully.
 
 
 # R/RStudio resources
