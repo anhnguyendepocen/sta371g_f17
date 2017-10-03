@@ -22,14 +22,15 @@ summary(fit)
 # the predict command extracts the predictions (yhat) for each
 # observation in the sample. Here we plot those predictions against
 # the independent variable Size.
-plot(predict(fit)~Size, data=housing, ylab="residuals")
+plot(predict(fit)~Size, data=housing, 
+     ylab="fitted values yhat")
 
 # cor() computes the sample correlation, which we'll talk more about
 # soon.
 cor(predict(fit), housing$Size)
 
 # resid() extracts the residuals y - yhat for each observation in the sample
-plot(resid(fit)~Size, data=housing, ylab="yhat")
+plot(resid(fit)~Size, data=housing, ylab="residuals")
 
 mean(resid(fit));  cor(resid(fit), housing$Size)
 
