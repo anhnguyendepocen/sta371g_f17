@@ -5,11 +5,12 @@ stereos = data.frame(
 )
 
 # Example for plotting a scatterplot + regression line
-# Delete this from the R script you submit
+# This is just an example, you should modify this to 
+# plot the sales/price data
 dat = data.frame(x = c(1,2,3,4,5),y = c(-1, 2, 0, 5, 4))
-fit = lm(y~x, data=dat)
+example_fit = lm(y~x, data=dat)
 plot(y~x, data=dat)
-abline(fit)
+abline(example_fit)
 
 library(readr)
 # This is a shortcut to download data directly from the course website.
