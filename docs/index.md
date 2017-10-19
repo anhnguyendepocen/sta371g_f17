@@ -44,7 +44,7 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 3. [Homework 2](homework/HW2.pdf): Follow the instructions in the PDF carefully and note there is one problem in addition to the Freemark case (problem 4).
 3. [Homework 3](homework/HW3.pdf): Follow the instructions in the PDF and the guidelines on Canvas carefully.
 3. [Homework 4](homework/hw4.pdf): Follow the instructions in the PDF and the guidelines on Canvas carefully.
-3. [Homework 5](homework/hw5.pdf) ([R script](homework/hw5.R)): Follow the instructions in the PDF and the guidelines on Canvas carefully.
+3. [Homework 5](homework/hw5.pdf) ([R script](homework/hw5.R)): Follow the instructions in the PDF and the guidelines on Canvas carefully. **For problem 2, you don't need to click the link. Just run the code in the R script from library(readr) to waite=..., and the Waite data will be loaded for you.**
 
 
 # R/RStudio resources
