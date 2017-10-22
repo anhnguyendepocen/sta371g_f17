@@ -37,14 +37,17 @@ Please see the [syllabus](files/syllabus.pdf) for more information.
 - [Section 2.2: Covariance, Correlation, and Least Squares ](slides/Section02.2.pdf) ([R code](slides/Section02.2.R))
 - [Section 2.3: Simple Linear Regression: Predictions and Inference ](slides/Section02.3.pdf) ([R code](slides/Section02.3.R))
 
-# Homework assignments and solutions
+# Homework assignments (solutions available via Canvas)
+
+Please be sure to follow the instructions in the PDF and the guidelines on Canvas carefully.
 
 1. Homework 0 (nothing to turn in!): Complete the first three tutorials listed below under "R/RStudio resources". By "complete" I mean follow along with the reading, and make sure you can run all the R commands from within RStudio. It is most helpful if you actually type the commands in yourself, rather than copy and pasting the code. It's tedious at first but helpful for learning. Once you've worked through the tutorials, run the R code accompanying the Section 1.1 lecture notes. Try changing things and see what happens!
 2. [Homework 1](homework/HW1.pdf): Follow the instructions in the PDF carefully. Associated R code is [here](homework/HW1.R). Solutions: On Canvas, attached to the assignment.
 3. [Homework 2](homework/HW2.pdf): Follow the instructions in the PDF carefully and note there is one problem in addition to the Freemark case (problem 4).
-3. [Homework 3](homework/HW3.pdf): Follow the instructions in the PDF and the guidelines on Canvas carefully.
-3. [Homework 4](homework/hw4.pdf): Follow the instructions in the PDF and the guidelines on Canvas carefully.
-3. [Homework 5](homework/hw5.pdf) ([R script](homework/hw5.R)): Follow the instructions in the PDF and the guidelines on Canvas carefully. **For problem 2, you don't need to click the link. Just run the code in the R script from library(readr) to waite=..., and the Waite data will be loaded for you.**
+3. [Homework 3](homework/HW3.pdf) 
+3. [Homework 4](homework/hw4.pdf)
+3. [Homework 5](homework/hw5.pdf) ([R script](homework/hw5.R))
+3. [Homework 6](homework/hw6.pdf) ([R script](homework/hw6.R))
 
 
 # R/RStudio resources
