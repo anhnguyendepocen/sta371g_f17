@@ -35,6 +35,8 @@ plot(Sales~predict(fit_p1), data=price_sales); abline(0,1)
 plot(Sales~predict(fit_p2), data=price_sales); abline(0,1)
 plot(Sales~predict(fit_p1p2), data=price_sales); abline(0,1)
 par(mfrow=c(1,1))
+
+# Load baseball data
 path = "https://jaredsmurray.github.io/sta371g_f17/data/"
 baseball = read_csv(paste0(path, 'baseball.csv'))
 
@@ -42,9 +44,6 @@ both_fit = lm(RPG ~ OBP + SLG, data=baseball)
 print(both_fit)
 
 summary(both_fit)
-
-path = "https://jaredsmurray.github.io/sta371g_f17/data/"
-baseball = read_csv(paste0(path, 'baseball.csv'))
 
 both_fit = lm(RPG ~ OBP + SLG, data=baseball); coef(both_fit)
 
