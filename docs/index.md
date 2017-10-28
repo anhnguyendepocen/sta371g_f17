@@ -49,6 +49,7 @@ Please be sure to follow the instructions in the PDF and the guidelines on Canva
 3. [Homework 4](homework/hw4.pdf)
 3. [Homework 5](homework/hw5.pdf) ([R script](homework/hw5.R))
 3. [Homework 6](homework/hw6.pdf) ([R script](homework/hw6.R))
+3. [Homework 7](homework/hw7.pdf) ([R script](homework/hw7.R))
 
 
 # R/RStudio resources
