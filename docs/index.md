@@ -66,3 +66,7 @@ There are many, many resources online for working in R. I have collected a few f
 Other general resources:
 
 - [R/Rstudio video walkthroughs](https://github.com/brianlukoff/sta371g/blob/master/r-help/getting-more-help.md) The Statistics department at UT Austin has produced a number of video walkthroughs for common tasks in R. 
+
+Specific guidance/extra information:
+
+- [Working with categorical data in R: Understanding factors](https://swcarpentry.github.io/r-novice-inflammation/12-supp-factors/)
