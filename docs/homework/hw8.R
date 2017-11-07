@@ -9,6 +9,10 @@ baseball = read_csv(paste0(path, 'baseball.csv'))
 # model.
 baseball$League = relevel(factor(baseball$League), ref="National")
 
+# After running the line above, any model you fit using the baseball
+# data frame will use National as the reference category for League
+# dummy variables
+
 # Load data for problem 2
 path = "https://jaredsmurray.github.io/sta371g_f17/data/"
 orion = read_csv(paste0(path, 'orion.csv'))
