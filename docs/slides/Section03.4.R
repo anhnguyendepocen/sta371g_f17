@@ -66,6 +66,8 @@ ojfit = lm(Sales~Price, data=oj)
 plotModel(ojfit)
 plot(resid(ojfit)~oj$Price)
 abline(h=0)
+
+
 ojfitelas = lm(log(Sales)~log(Price), data=oj)
 coef(ojfitelas)
 

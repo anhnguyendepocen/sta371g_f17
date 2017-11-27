@@ -28,3 +28,16 @@
 library(readr)
 path = "https://jaredsmurray.github.io/sta371g_f17/data/"
 beauty = read_csv(paste0(path, 'evals.csv'))
+
+plot(score~bty_avg, data=beauty)
+fit1 = lm(score~bty_avg, data=beauty)
+
+fit2 = lm(score~bty_avg+gender, data=beauty)
+
+fit3 = lm(score~bty_avg*gender, data=beauty)
+
+fit4 = lm(score~bty_avg*gender + rank + ethnicity + language + age + cls_level, data=beauty)
+
+fit5 = lm(score~bty_avg+gender + rank + ethnicity + language + age + cls_level, data=beauty)
+
+
