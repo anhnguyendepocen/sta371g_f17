@@ -56,7 +56,8 @@ X = cbind(trend=1:length(passengers), # This is the trend
 head(X, 14)
 
 # We can use Arima to generate forecasts with lagged variables here too, by
-# specifying the other variables (trend + seasonal dummies)
+# specifying the other variables (trend + seasonal dummies) using the xreg 
+# argument below
 airline_final_model = Arima(log(passengers), order=c(1,0,0), xreg = X)
 
 # Let's make a forecast for next year (the next 12 observations)
